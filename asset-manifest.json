@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BrewDogAPI/static/css/main.2a6f5ae5.chunk.css",
+    "main.js": "/BrewDogAPI/static/js/main.47fb2cbb.chunk.js",
+    "main.js.map": "/BrewDogAPI/static/js/main.47fb2cbb.chunk.js.map",
+    "runtime-main.js": "/BrewDogAPI/static/js/runtime-main.1aa27f76.js",
+    "runtime-main.js.map": "/BrewDogAPI/static/js/runtime-main.1aa27f76.js.map",
+    "static/js/2.14500d85.chunk.js": "/BrewDogAPI/static/js/2.14500d85.chunk.js",
+    "static/js/2.14500d85.chunk.js.map": "/BrewDogAPI/static/js/2.14500d85.chunk.js.map",
+    "static/js/3.bf073222.chunk.js": "/BrewDogAPI/static/js/3.bf073222.chunk.js",
+    "static/js/3.bf073222.chunk.js.map": "/BrewDogAPI/static/js/3.bf073222.chunk.js.map",
+    "index.html": "/BrewDogAPI/index.html",
+    "static/css/main.2a6f5ae5.chunk.css.map": "/BrewDogAPI/static/css/main.2a6f5ae5.chunk.css.map",
+    "static/js/2.14500d85.chunk.js.LICENSE.txt": "/BrewDogAPI/static/js/2.14500d85.chunk.js.LICENSE.txt",
+    "static/media/App.module.scss": "/BrewDogAPI/static/media/Beer5.e6cc1ba1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa27f76.js",
+    "static/js/2.14500d85.chunk.js",
+    "static/css/main.2a6f5ae5.chunk.css",
+    "static/js/main.47fb2cbb.chunk.js"
+  ]
+}
